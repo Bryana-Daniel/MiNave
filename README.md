@@ -4,14 +4,7 @@ import java.awt.Image;
 import java.awt.event.KeyEvent;
 import javax.swing.ImageIcon;
 
-public class Avion {
-
-    private int dx;
-    private int dy;
-    private int x;
-    private int y;
-    private Image image;
-
+public class Avion
     public Avion() {
         
         initCraft();
